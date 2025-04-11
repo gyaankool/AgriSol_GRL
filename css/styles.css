@@ -408,7 +408,10 @@
 
 .footer-left img {
     width: 30%;
-    margin-bottom: 1rem;
+   
+}
+.footer-left p{
+ color: rgb(193, 191, 191);
 }
 
 .footer-left i,
