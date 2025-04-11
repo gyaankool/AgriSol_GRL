@@ -494,7 +494,7 @@
 }
 
 /* Mobile styles */
-@media (max-width: 768px) {
+@media (max-width: 999px) {
     .mobile-hidden {
         display: none !important;
     }
@@ -504,7 +504,7 @@
     }
 }
 
-@media (max-width: 576px) {
+@media (max-width: 999px) {
     body {
         overflow-x: hidden;
     }
@@ -720,7 +720,7 @@
     }
 }
 
-@media (max-width: 768px) {
+@media (max-width: 999px) {
     .stat-card {
         flex: 0 1 calc(50% - 10px);
         /* Two per row with gap */
