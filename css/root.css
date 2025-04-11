@@ -1,0 +1,21 @@
+:root {
+    --navbar-height: 6rem;
+    --green-gradient: linear-gradient(to left, #007C2E, #16A34A);
+    --page-padding-horizontal: 8rem;
+    --page-gap: 5rem;
+    --card-bg-light: #d3f8dd;
+    --card-bg-gradient: linear-gradient(to right, #d3f8dd, #e8ffea);
+    --title-green: #16A34A;
+    --title-grey: #7F7F7F;
+    --text-grey: #555555;
+    --subheading-green: green;
+    --heading-font-size: 32px;
+    --subheading-font-size: 14px;
+    --carousel-caption-width: 55rem;
+    --carousel-caption-top: 18rem;
+    --carousel-caption-top-mobile: 22rem;
+    --cta-width: 15rem;
+    --stat-card-width: 17rem;
+    --stat-card-bg: rgba(22, 163, 74, 0.6);
+    --white: #fff;
+}
